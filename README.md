@@ -1,4 +1,3 @@
-
 Khatri Bank Console Application
 Overview
 Welcome to the Khatri Bank Console Application! This application is a simple yet powerful banking simulation program created by Gaurav Khatri from Pakistan. It allows users to perform basic banking operations like checking balance, withdrawing money, and depositing money in a secure and user-friendly manner.
@@ -58,4 +57,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Contact
 Created by Gaurav Khatri - feel free to contact me via gauravkhatriweb@gmail.com for any inquiries or feedback.
-<!-- this is testing change not for you -->
